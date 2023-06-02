@@ -1,0 +1,21 @@
+{
+  "manifest": {
+    "version": "0.0.1",
+    "transparency_mode": 0,
+    "author": "ssnibles",
+    "name": "Nova"
+  },
+  "background": {},
+  "simple_colors": {
+    "statusbar": -2031364,
+    "background": -16646142,
+    "background_secondary": -2031364,
+    "accent": -2031364,
+    "mention_highlight": -2031364
+  },
+  "colors": {
+    "accent_material_dark": -9956751,
+    "abc_tint_seek_thumb": -25601
+  },
+  "drawable_tints": {}
+}
